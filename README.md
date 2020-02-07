@@ -1,18 +1,19 @@
-# APLICACIÓN WEB PARA CALCULAR LA MEDIA Y DESVIACION ESTANDAR
+# TALLER 3
 
 ## Description
-Esta aplicación web es una calculadora de media y desviacion estandar con una implementacion de LinkedList compatible con la clase List de java.
+Este programa crea un objeto URL e imprima en pantalla cada uno de los componentes de una URL. Es decir, getProtocol, getAuthority, getHost, getPort, getPath, getQuery, getFile, getRef.
 
-La calculadora contiene las sigueientes operaciones:
+Tambien contiene una aplicación browser que dada una URL lee datos de esa dirección y que los almacene en un archivo con el nombre resultado.html.
 
-  1. Media
-  2. Desviacion estandar	
+Ademas tiene un servidor que recibe un número y responde el cuadrado de este número.
+
+Por ultimo tiene un servidor web que soporte múltiples solicitudes seguidas (no concurrentes). El servidor retorna archivos.
 
 ## Getting Started
 Esta aplicacion esta [desplegada con herku](https://arep-lab03.herokuapp.com/), el link de la aplicacion es [https://arep-lab03.herokuapp.com/](https://arep-lab03.herokuapp.com/).
 
 ## Use
-Para usar la aplicación toca acceder al link y usar el cuadro de texto para escribir la lista de numeros separadas por un espacio, despues oprimir el boton de calculate, y en la siguiente pagina se mostrara el resultado del calculo.
+Para usar esta aplicacion es necesario descargar el repositorio de github y poner a correr las diferentes clases para utilizar las utilidades que tiene, este codigo se puede compilar mediante cualquier compilador que soporte maven.
 
 ## Heroku
 
@@ -26,4 +27,4 @@ Para usar la aplicación toca acceder al link y usar el cuadro de texto para esc
 Eduardo Ocampo
 
 ## Build With
-Esta aplicacion web fue creado en Java y usando el framework Spark.
+Esta aplicacion web fue creado en Java.

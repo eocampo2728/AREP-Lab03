@@ -41,7 +41,7 @@ public class URLRequest {
 
     public static void main(String[] args) throws MalformedURLException {
         URLRequest reader = new URLRequest();
-        System.out.println("Enter URL, for example: https://www.escuelaing.edu.co/es/ ");
+        System.out.println("Write yout URL Ex: https://www.escuelaing.edu.co/es/ ");
         Scanner scanner = new Scanner(System.in);
         String line = scanner.nextLine();
         URL url = new URL(line);

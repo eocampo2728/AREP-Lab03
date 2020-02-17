@@ -3,11 +3,11 @@
 ## Description
 Este programa crea un objeto URL e imprima en pantalla cada uno de los componentes de una URL. Es decir, getProtocol, getAuthority, getHost, getPort, getPath, getQuery, getFile, getRef.
 
-Tambien contiene una aplicación browser que dada una URL lee datos de esa dirección y que los almacene en un archivo con el nombre resultado.html.
+Tambien contiene una aplicación browser que dada una URL lee datos de la dirección y los almacene en un archivo con el nombre resultado.html.
 
 Ademas tiene un servidor que recibe un número y responde el cuadrado de este número.
 
-Por ultimo tiene un servidor web que soporte múltiples solicitudes seguidas (no concurrentes). El servidor retorna archivos.
+Por ultimo tiene un servidor web que soporta múltiples solicitudes seguidas (no concurrentes). El servidor retorna archivos.
 
 Esto corresponde a:
 

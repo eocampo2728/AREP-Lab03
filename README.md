@@ -11,7 +11,7 @@ Por ultimo tiene un servidor web que soporte múltiples solicitudes seguidas (no
 
 Esto corresponde a:
 
-´´´
+```
 EJERCICIO 1
 Escriba un programa en el cual usted cree un objeto URL e imprima en pantalla cada uno de los componentes de una URL. Es decir , debe usar los siguientes métodos: getProtocol, getAuthority, getHost, getPort, getPath, getQuery, getFile, getRef. Asegúrese que ninguno imprima una cadena vacía, esto implica que la URL que use para su objeto debe contener datos suficientes.
 
@@ -23,7 +23,7 @@ Usando sockets escriba un servidor que reciba un número y responda el cuadrado 
 
 Reto 1
 Escriba un servidor web que soporte múlltiples solicitudes seguidas (no concurrentes). El servidor debe retornar todos los archivos solicitados, incluyendo páginas html e imágenes. Construya un sitio web con javascript para probar su servidor. Despliegue su solución en Heroku.
-´´´
+```
 
 ## Getting Started
 Esta aplicacion esta [desplegada con herku](https://arep-lab03.herokuapp.com/), el link de la aplicacion es [https://arep-lab03.herokuapp.com/](https://arep-lab03.herokuapp.com/).
@@ -41,7 +41,7 @@ Para usar esta aplicacion es necesario descargar el repositorio de github y pone
 
 ## License
 
-MIT lices, para mas informacion de la licensia revisar el archivo LICENSE
+MIT lices, para mas informacion de la licensia revisar el archivo LICENSE.
 
 ## Autor
 Eduardo Ocampo

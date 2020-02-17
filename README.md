@@ -7,7 +7,7 @@ Tambien contiene una aplicación browser que dada una URL lee datos de la direcc
 
 Ademas tiene un servidor que recibe un número y responde el cuadrado de este número.
 
-Por ultimo tiene un servidor web que soporte múltiples solicitudes seguidas (no concurrentes). El servidor retorna archivos.
+Por ultimo tiene un servidor web que soporta múltiples solicitudes seguidas (no concurrentes). El servidor retorna archivos.
 
 Esto corresponde a:
 

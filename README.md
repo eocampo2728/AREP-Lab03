@@ -9,6 +9,8 @@ Ademas tiene un servidor que recibe un número y responde el cuadrado de este n�
 
 Por ultimo tiene un servidor web que soporte múltiples solicitudes seguidas (no concurrentes). El servidor retorna archivos.
 
+Esto corresponde a los ejercicios 1, 2 y 3 y el reto 1 del taller cliente servidor.
+
 ## Getting Started
 Esta aplicacion esta [desplegada con herku](https://arep-lab03.herokuapp.com/), el link de la aplicacion es [https://arep-lab03.herokuapp.com/](https://arep-lab03.herokuapp.com/).
 
@@ -22,6 +24,10 @@ Para usar esta aplicacion es necesario descargar el repositorio de github y pone
 ## CircleCi
 
 [![CircleCI](https://circleci.com/gh/eocampo2728/AREP-Lab03.svg?style=svg)](https://circleci.com/gh/eocampo2728/AREP-Lab03)
+
+## License
+
+MIT lices, para mas informacion de la licensia revisar el archivo LICENSE
 
 ## Autor
 Eduardo Ocampo
